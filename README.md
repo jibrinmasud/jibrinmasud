@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jibrinmasud
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on open source flutter app.
+- 💞️ I’m looking forword to collaborate on open source flutter app.
 - 📫 How to reach me jibrinmasud494@gmail.com
 
 <!---
