@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jibrinmasud
-- 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking forword to collaborate on open source flutter app, Reactjs.
+- 👀 I’m Expirence in C#, ASP.Net Core, MVC, Entity Framework, SQL Server, MONGODB and ReactJS
+- 🌱 I’m currently a C#, ASP.Net Core Developer 
+- 💞️ I’m open to work on any C# project
 - 📫 How to reach me jibrinmasud494@gmail.com
 
 <!---
